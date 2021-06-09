@@ -1,15 +1,9 @@
-<p> 
-<a href="https://www.linkedin.com/in/sunny-mallick-896a33169/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
-<a href="mailto:sunny.mallick927@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p> 
 
-<!-- <br/>[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymallick)](https://github.com/sunnymallick/github-readme-stats)
- -->
 ## Hi there, I'm Sunny! 👋🏾       
 
 - 🌱 I’m currently learning about SQL.
 - 💬 Ask me about JavaScript, HTML/CSS or cars.
-- 📫 How to reach me: Email with the link above!
+- 📫 How to reach me: Email with the link below!
 - ⚡ Fun fact: I love cars. Currently working on a 1987 Dodge Daytona Shelby Z!
 
 
@@ -33,3 +27,9 @@
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymallick&count_private=true&theme=dark)](https://github.com/sunnymallick/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnymallick&theme=dark)](https://git.io/streak-stats)
+
+### Contact Info:
+<p> 
+<a href="https://www.linkedin.com/in/sunny-mallick-896a33169/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
+<a href="mailto:sunny.mallick927@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p> 
