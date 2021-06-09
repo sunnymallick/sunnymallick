@@ -1,18 +1,13 @@
 <p> 
-<a href="https://www.linkedin.com/in/lema-el-sherbiny-b41340193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
-<a href="mailto:lama.sherb@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/sunny-mallick-896a33169/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
+<a href="mailto:sunny.mallick927@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p> 
 
-<br/>[![Lema's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemlooma)](https://github.com/lemlooma/github-readme-stats)
+<br/>[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymallick)](https://github.com/sunnymallick/github-readme-stats)
 
-## Ello, I'm Lema 👋🏽        
+## Hi there, I'm Sunny! 👋🏽        
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
-### Hi there 👋
-
-
-
-**sunnymallick/sunnymallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
