@@ -30,6 +30,6 @@
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
 
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymallick&count_private=true)](https://github.com/sunnymallick/github-readme-stats)
+[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymallick&count_private=true&theme=dark)](https://github.com/sunnymallick/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnymallick)](https://git.io/streak-stats)
