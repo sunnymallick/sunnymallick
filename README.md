@@ -31,3 +31,5 @@
 
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymallick&count_private=true)](https://github.com/sunnymallick/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnymallick)](https://git.io/streak-stats)
