@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about SQL.
 - 💬 Ask me about JavaScript, HTML/CSS or cars.
-- 📫 How to reach me: Email with the link below!
+- 📫 How to reach me: Email or through Linkedin with the links below!
 
 ### Toolbelts In Progress:   
 
