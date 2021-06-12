@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning about SQL.
 - 💬 Ask me about JavaScript, HTML/CSS or cars.
 - 📫 How to reach me: Email with the link below!
-- ⚡ Fun fact: I love cars. Currently working on a 1987 Dodge Daytona Shelby Z!
-
 
 ### Toolbelts In Progress:   
 
