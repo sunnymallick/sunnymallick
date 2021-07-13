@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Sunny! 👋🏾       
 
-- 🌱 I’m currently learning about React!
+- 🌱 I’m currently learning about React and Redux!
 - 💬 Ask me about JavaScript, HTML/CSS or cars.
 - 📫 How to reach me: Email or through Linkedin with the links below!
 
