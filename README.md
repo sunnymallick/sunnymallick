@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Sunny! 👋🏾       
 
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently working on a full-stack Python project!
 - 💬 Ask me about JavaScript, HTML/CSS or cars.
 - 📫 How to reach me: Email or through Linkedin with the links below!
 
