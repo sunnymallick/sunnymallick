@@ -25,6 +25,16 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnymallick&theme=dark)](https://git.io/streak-stats)
 
+
+### Projects:
+
+#### Group Projects:
+<a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/bqAG2cu.png?1" height= auto width='190px'/></a>
+
+#### Solo Projects:
+
+<a href="https://github.com/sunnymallick/carsrus-capstone-project"><img src='https://sunny-capstone-project.s3.us-west-1.amazonaws.com/images-for-site/logo/carsrus-transparent.001.png'></a>
+
 ### Contact Info:
 <p> 
 <a href="https://www.linkedin.com/in/sunny-mallick-896a33169/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
