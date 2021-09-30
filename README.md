@@ -30,6 +30,7 @@
 
 #### Group Projects:
 <a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/bqAG2cu.png?1" height= auto width='190px'/></a>
+<a href="https://github.com/sunnymallick/goodreads-clone-marvelousreviews"><img src="https://i.imgur.com/nbaiXhj.png" height= auto width='190px'/></a>
 
 #### Solo Projects:
 
