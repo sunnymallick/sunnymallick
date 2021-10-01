@@ -34,7 +34,7 @@
 
 #### Solo Projects:
 
-<a href="https://github.com/sunnymallick/carsrus-capstone-project"><img src='https://i.imgur.com/4k6Yuvb.png' height='90px' width='300px'></a>
+<a href="https://github.com/sunnymallick/carsrus-capstone-project"><img src='https://i.imgur.com/4k6Yuvb.png?1' height='90px' width='300px'></a>
   
 ### Contact Info:
 <p> 
