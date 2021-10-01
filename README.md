@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Sunny! 👋🏾       
 
-- 🌱 I’m currently finishing up my 24-week coding bootcamp!
+- 🌱 Coding Bootcamp alumni
 - 💬 Ask me about JavaScript, Python, HTML/CSS or cars.
 - 📫 How to reach me: Email or through Linkedin with the links below!
 
