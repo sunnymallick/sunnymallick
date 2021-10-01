@@ -1,7 +1,8 @@
 
-## Hi there, I'm Sunny! 👋🏾       
+## Hi there, I'm Sunny! 👋🏾 
 
-- 🌱 Coding Bootcamp alumni
+Check out my portfolio <a href='sunnymallick.com'>here</a>!
+
 - 💬 Ask me about JavaScript, Python, HTML/CSS or cars.
 - 📫 How to reach me: Email or through Linkedin with the links below!
 
