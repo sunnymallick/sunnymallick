@@ -29,7 +29,7 @@ Check out my portfolio <a href='https://www.sunnymallick.com/' target="_blank">h
 ### Projects:
 
 #### Group Projects:
-<a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/bqAG2cu.png?1" height= '100px' width='200px'/></a>
+<a href="https://github.com/TheGuilbotine/TableTalk"><img src="https://i.imgur.com/bqAG2cu.png?1" height= '100px' width='200px' padding='10px'/></a>
 <a href="https://github.com/sunnymallick/goodreads-clone-marvelousreviews"><img src="https://i.imgur.com/nbaiXhj.png" height= '100px' width='200px' padding-left='5px'/></a>
 
 #### Solo Projects:
