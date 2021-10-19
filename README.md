@@ -3,6 +3,7 @@
 
 Check out my portfolio <a href='https://www.sunnymallick.com/' target="_blank">here</a>!
  - 💬 Ask me about JavaScript, Python, HTML/CSS or cars.
+ - 💻 Feel free to check out my projects.
  - 📫 How to reach me: Email or through Linkedin with the links below!
 
 ### Toolbelts In Progress:   
