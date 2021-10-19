@@ -23,10 +23,10 @@ Check out my portfolio <a href='https://www.sunnymallick.com/' target="_blank">h
 
 [![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymallick&count_private=true&theme=dark)](https://github.com/sunnymallick/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnymallick&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnymallick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnymallick&theme=dark)](https://git.io/streak-stats)
 
 
 ### Projects:
