@@ -28,9 +28,6 @@ Check out my portfolio <a href='https://www.sunnymallick.com/' target="_blank">h
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnymallick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ### Projects:
 
 #### Group Projects:
