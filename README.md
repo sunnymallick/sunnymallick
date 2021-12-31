@@ -4,7 +4,7 @@
 Check out my portfolio <a href='https://www.sunnymallick.com/' target="_blank">here</a>!
  - 📚 I'm currently studying Data Structures and Algorithms.
  - 💬 Ask me about JavaScript, Python, HTML/CSS or cars.
- - 💻 Feel free to check out my projects.
+ - 💻 Feel free to check out my projects below.
  - 📫 How to reach me: Email or through Linkedin with the links below!
 
 ### Toolbelts In Progress:   
