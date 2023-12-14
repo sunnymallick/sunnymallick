@@ -2,9 +2,6 @@
 ## Hi there, I'm Sunny! 👋🏾 
 
 Check out my portfolio <a href='https://www.sunnymallick.com/' target="_blank">here</a>!
- - 📚 I'm currently studying Data Structures and Algorithms.
- - 💬 Ask me about JavaScript, Python, HTML/CSS, React or anything automotive related.
- - 💻 Feel free to check out my solo and collaborative projects below.
  - 📫 How to reach me: Email or through Linkedin with the links below!
 
 ### Toolbelts In Progress:   
