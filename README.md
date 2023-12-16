@@ -1,7 +1,6 @@
 
 ## Hi there, I'm Sunny! 👋🏾 
 
-Check out my portfolio <a href='https://www.sunnymallick.com/' target="_blank">here</a>!
  - 📫 How to reach me: Email or through Linkedin with the links below!
 
 ### Toolbelts In Progress:   
