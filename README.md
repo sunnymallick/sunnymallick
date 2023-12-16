@@ -1,6 +1,7 @@
 
 ## Hi there, I'm Sunny! 👋🏾 
-
+ 
+ - 🌱 I’m currently working as a Full-Stack Software Developer.
  - 📫 How to reach me: Email or through Linkedin with the links below!
 
 ### Toolbelts In Progress:   
